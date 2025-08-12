@@ -52,8 +52,8 @@ This project provides a simple interface to register, log in, and perform **CRUD
 #### Update your database credentials in the DAO class:
 
 - String jdbcURL = "jdbc:mysql://localhost:3306/vipulpaighan_employee_db";
-- String jdbcUsername = "426135";
-- String jdbcPassword = "@kingvipul10A";
+- String jdbcUsername = "UserName";
+- String jdbcPassword = "Password";
 
 ### 3️⃣ Deploy on Tomcat
 -Open the project in Eclipse.
