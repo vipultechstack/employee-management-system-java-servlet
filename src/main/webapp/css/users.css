@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 30px 15px;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+    color: #222;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 14px 20px;
+    font-size: 1.1rem;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+td {
+    background-color: #fff;
+    border-bottom: 1.5px solid #e1e8f0;
+    color: #444;
+}
+
+tr:nth-child(even) td {
+    background-color: #f9fbfe;
+}
+
+tr:hover td {
+    background-color: #e9f0ff;
+    transition: background-color 0.3s ease;
+}
+
+/* Action links */
+a {
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #007bff;
+    background-color: #e7f1ff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+a:active {
+    background-color: #003f8f;
+}
+
+/* Go Back button */
+a[href='register.jsp'] {
+    display: block;
+    width: 140px;
+    margin: 40px auto 0;
+    padding: 12px 20px;
+    background-color: #28a745;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+    box-shadow: 0 5px 15px rgba(40, 167, 69, 0.5);
+    transition: background-color 0.3s ease;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 14px;
+    margin-right: 10px;  /* space between buttons */
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    min-width: 60px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease;
+}
+
+.edit-btn {
+    background-color: #c0c0c0;
+}
+
+.edit-btn:hover {
+    background-color: #0056b3;
+}
+
+.delete-btn {
+    background-color: #c0c0c0;
+}
+
+.delete-btn:hover {
+    background-color: #a71d2a;
+}
+
+
+
+a[href='register.jsp']:hover {
+    background-color: #218838;
+}
+
+a[href='register.jsp']:active {
+    background-color: #1e7e34;
+}

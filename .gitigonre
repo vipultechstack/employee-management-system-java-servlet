@@ -1,0 +1,18 @@
+# Java / Eclipse
+/.classpath
+/.project
+/.settings/
+/bin/
+/target/
+*.class
+
+# Build artifacts
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+db.properties
