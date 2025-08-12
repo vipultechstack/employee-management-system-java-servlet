@@ -29,7 +29,7 @@ This project provides a simple interface to register, log in, and perform **CRUD
 ---
 
 ## 📂 Project Structure
-![Project Structure](screenshot/Project Structure.png)
+![Project Structure](screenshots/Structure.png)
 
 ---
 
@@ -67,13 +67,13 @@ This project provides a simple interface to register, log in, and perform **CRUD
 
 ### 📸 Screenshots
 
-![Login Page](screenshot/Login.png)
+![Login Page](screenshots/Login.png)
 
-![Register Page](screenshot/Register.png)
+![Register Page](screenshots/Register.png)
 
-![User Details Page](screenshot/Detail.png)
+![User Details Page](screenshots/Detail.png)
 
-![Edit User Page](screenshot/Edit.png)
+![Edit User Page](screenshots/Edit.png)
 
 
 ## 📜 License
