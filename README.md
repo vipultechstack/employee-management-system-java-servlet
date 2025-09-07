@@ -19,7 +19,7 @@ This project provides a simple interface to register, log in, and perform **CRUD
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 - **Backend:** Java Servlets  
 - **Frontend:** JSP, HTML, CSS  
 - **Database:** MySQL  
