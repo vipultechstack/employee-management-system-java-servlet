@@ -1,25 +1,25 @@
 # Employee Management System – Java Servlet, JSP & MySQL
 
-## 📌 Overview
+## Overview
 The **Employee Management System** is a web-based application built using **Java Servlets, JSP, and MySQL** that allows businesses to manage employee information efficiently.  
 This project provides a simple interface to register, log in, and perform **CRUD** (Create, Read, Update, Delete) operations on employee data.
 
-🚀 **Live Demo:** [Click Here](http://vipulpaighan.alwaysdata.net/)
+**Live Demo:** [Click Here](http://vipulpaighan.alwaysdata.net/)
 
 ---
 
-## ✨ Features
-- 👨‍💼 **Employee Registration & Login**
-- 🔐 **Secure Authentication** with Session Management
-- 📋 **View All Employees**
-- ✏️ **Edit Employee Details**
-- ❌ **Delete Employees**
-- 💾 **Data Storage** in MySQL Database
-- 🌐 Deployable on **Apache Tomcat Server**
+##  Features
+- **Employee Registration & Login**
+- **Secure Authentication** with Session Management
+- **View All Employees**
+- **Edit Employee Details**
+- **Delete Employees**
+- **Data Storage** in MySQL Database
+- Deployable on **Apache Tomcat Server**
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 - **Backend:** Java Servlets  
 - **Frontend:** JSP, HTML, CSS  
 - **Database:** MySQL  
@@ -28,12 +28,12 @@ This project provides a simple interface to register, log in, and perform **CRUD
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ![Project Structure](screenshots/Structure.png)
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -65,7 +65,7 @@ This project provides a simple interface to register, log in, and perform **CRUD
 ### 4️⃣ Access the Application
 - Visit: http://localhost:8080/Employee-Management-System
 
-### 📸 Screenshots
+### Screenshots
 
 ![Login Page](screenshots/Login.png)
 
@@ -76,11 +76,11 @@ This project provides a simple interface to register, log in, and perform **CRUD
 ![Edit User Page](screenshots/Edit.png)
 
 
-## 📜 License
+## License
 This project is licensed under the MIT License – you are free to use and modify it.
 
-## 💡 Author
+## Author
 Vipul Paighan – Software Developer & Data Analyst
 
-## 💡 Contact
+## Contact
 For custom work or paid installs: vipulpaighan.1988@gmail.com
